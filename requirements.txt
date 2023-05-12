@@ -1,0 +1,4 @@
+# pack kang
+telethon
+emoji
+motor
