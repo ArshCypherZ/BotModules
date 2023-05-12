@@ -3,7 +3,7 @@ import emoji
 
 from motor import motor_asyncio
 
-from telethon import Button, TelegramClient
+from telethon import Button, TelegramClient, events
 from telethon.errors.rpcerrorlist import PackShortNameOccupiedError
 from telethon.tl.functions.messages import GetStickerSetRequest
 from telethon.tl.functions.stickers import CreateStickerSetRequest
