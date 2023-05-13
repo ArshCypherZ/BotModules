@@ -2,3 +2,7 @@
 telethon
 emoji
 motor
+
+# ask
+python-telegram-bot==20.0a4
+openai
